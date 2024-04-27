@@ -6,7 +6,7 @@ This pipeline requires at least 10GB GPU VRAM, and is used for the backend servi
 
 ## Description
 
-Stable Video Diffusion XT + Google Researches Interpolation model results in smooth, amazing videos.
+Stable Video Diffusion XT + Google Researches Interpolation model results in extremely smooth, 24fps (configurable), amazing looking videos at longer lengths than 4 seconds.
 
 ## Features
 - **Scalable and Efficient**: The pipeline is designed to handle large-scale video generation tasks efficiently with several GPU workers and supports multi-GPU instances, making it suitable for various applications.
