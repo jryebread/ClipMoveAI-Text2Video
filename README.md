@@ -15,3 +15,7 @@ Stable Video Diffusion XT + Google Researches Interpolation model results in ext
 
 - **VRAM**: The pipeline requires at least 10GB of VRAM (Video RAM) to run effectively. Ensure that your system meets this requirement before running the pipeline.
 - **Dependencies**: The necessary dependencies and libraries will be listed in the project's documentation or installation
+
+TODO: 
+[] Add source (cleanup in progress)
+[] add RIFE/SRMD
